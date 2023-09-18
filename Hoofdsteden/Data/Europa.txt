@@ -1,0 +1,41 @@
+Albanië,Tirana,*
+Andorra,Andorra,*
+België,Brussel,*
+Bosnië Hercegovina,Sarajevo,*
+Bulgarije,Sofia,*
+Denemarken,Kopenhagen,*
+Duitsland,Berlijn,*
+Estland,Talinn,*
+Finland,Helsinki,*
+Frankrijk,Parijs,*
+Griekenland,Athene,*
+Hongarije,Boedapest,*
+Ierland,Dublin,*
+Ijsland,Reykjavik,*
+Italië,Rome,*
+Joegoslavië,Belgrado,*
+Kroatië,Zagreb,*
+Letland,Riga,*
+Liechtenstein,Vaduz,*
+Litouwen,Vilnius,*
+Luxemburg,Luxemburg,*
+Macedonië,Skopje,*
+Moldavië,Chisinau,*
+Monaco,Monaco,*
+Nederland,Amsterdam,*
+Noorwegen,Oslo,*
+Oekraïne,Kiev,Kiew,*
+Oostenrijk,Wenen,*
+Polen,Warschau,*
+Portugal,Lissabon,*
+Roemenië,Boekarest,*
+San Marino,San Marino,*
+Slovenië,Ljubljana,*
+Slowakije,Bratislava,*
+Spanje,Madrid,*
+Tjechië,Praag,*
+Vaticaanstad,Vaticaanstad,*
+Verenigd Koninkrijk,Londen,*
+Wit Rusland,Minsk,*
+Zweden,Stockholm,*
+Zwitserland,Bern,*
