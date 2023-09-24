@@ -223,7 +223,7 @@ On Error GoTo Fout
 Dim Informatie As String
 
    With App
-      Informatie = .Title & " v" & CStr(.Major) & "." & CStr(.Minor) & CStr(.Revision) & ", by: " & .CompanyName
+      Informatie = .Title & " v" & CStr(.Major) & "." & CStr(.Minor) & CStr(.Revision) & ", door: " & .CompanyName
    End With
    Informatie = Informatie & " - ***2014***"
    
